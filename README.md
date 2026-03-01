@@ -1,0 +1,82 @@
+# IVE – Stuck In Your Head
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:07.05] Click 호기심이
+[00:09.05] 넘친 그 순간 이미
+[00:10.62] Aww, there's no vaccine
+[00:12.48] Oh, yeah, oh, yeah, oh, yeah
+[00:14.17] Quick 난 재빨리
+[00:16.10] 맘을 파고든 뒤
+[00:17.72] 널 퍼져 들지
+[00:19.65] Oh, yeah, oh, yeah, oh, yeah
+[00:21.86] 뛰는 심장박동도 Oh, oh
+[00:24.27] 제어 불가 Error
+[00:28.92] 아마 예상보다도
+[00:30.68] 난 좀 더
+[00:32.48] 악성 Virus
+[00:36.01] I'm stuck in your head like
+[00:37.77] I'm stuck in your head like
+[00:39.59] I'm stuck in your head like
+[00:40.74] Ooh
+[00:43.07] I'm stuck in your head like
+[00:44.92] I'm stuck in your head like
+[00:46.69] I'm stuck in your head like
+[00:47.78] Ooh
+[00:49.75] 다 훔쳤어
+[00:50.88] 네 맘을 여는 Password
+[00:53.33] 네 맘 끝까지 침투해 I like it
+[00:56.81] 바꿔놨어
+[00:57.93] 네 새로워질 Password
+[01:00.30] 내 생일이야 기억해 You'll like it
+[01:03.70] 머릿속이
+[01:04.37] 완전 All messed
+[01:05.39] 온통 나인 게 어지럽지
+[01:07.25] 나의 덫인지
+[01:07.94] 아님 너의 실수인지
+[01:08.83] 이윤 모른대도
+[01:09.72] 답은 You'll like me
+[01:11.18] 여기야 여기
+[01:12.96] 눈 감고 Find me
+[01:14.71] 해 뜰 때까지 Yeah
+[01:18.51] 너의 사고 체계도 Oh, oh
+[01:20.90] 제어 불가 Error
+[01:25.52] 치명적일 정도로
+[01:27.35] 난 좀 더
+[01:29.09] 악성 Virus
+[01:32.64] I'm stuck in your head like
+[01:34.46] I'm stuck in your head like
+[01:36.22] I'm stuck in your head like
+[01:37.32] Ooh
+[01:39.69] I'm stuck in your head like
+[01:41.46] I'm stuck in your head like
+[01:43.28] I'm stuck in your head like
+[01:44.50] Ooh
+[01:46.37] 다 훔쳤어
+[01:47.52] 네 맘을 여는 Password
+[01:49.89] 네 맘 끝까지 침투해 I like it
+[01:53.44] 바꿔 놨어
+[01:54.56] 네 새로워질 Password
+[01:56.91] 내 생일이야 기억해 You'll like it
+[02:00.53] 하나둘씩
+[02:02.32] 지운 Data
+[02:04.10] 네 머릿속 All
+[02:07.66] 나만 Repeat
+[02:09.42] I take control 널
+[02:11.61] 가졌어
+[02:15.18] I'm stuck in your head like
+[02:16.85] I'm stuck in your head like
+[02:18.71] I'm stuck in your head like
+[02:19.75] Ooh
+[02:22.24] I'm stuck in your head like
+[02:23.97] I'm stuck in your head like
+[02:25.79] I'm stuck in your head like
+[02:26.93] Ooh
+[02:28.87] 다 훔쳤어
+[02:29.96] 네 맘을 여는 Password
+[02:32.40] 네 맘 끝까지 침투해 I like it
+[02:35.91] 바꿔 놨어
+[02:37.02] 네 새로워질 Password
+[02:39.40] 내 생일이야 기억해 You'll like it
+```
