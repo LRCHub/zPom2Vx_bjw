@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Stuck In Your Head",
+  "base_artist": "IVE",
+  "createdAt": "2026-03-01T06:10:15.881511Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stuck in Your Head",
+      "artist": "Bully",
+      "has_synced": false,
+      "path": "select/01_Stuck_in_Your_Head_Bully.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stuck In Your Head",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/02_Stuck_In_Your_Head_IVE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stuck In Your Head",
+      "artist": "I Prevail",
+      "has_synced": true,
+      "path": "select/03_Stuck_In_Your_Head_I_Prevail.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stuck in Your Head",
+      "artist": "I Prevail",
+      "has_synced": true,
+      "path": "select/04_Stuck_in_Your_Head_I_Prevail.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stuck In Your Head",
+      "artist": "I Prevail",
+      "has_synced": true,
+      "path": "select/05_Stuck_In_Your_Head_I_Prevail.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "stuck in your head",
+      "artist": "i prevail",
+      "has_synced": true,
+      "path": "select/06_stuck_in_your_head_i_prevail.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stuck in Your Head",
+      "artist": "Vistas",
+      "has_synced": true,
+      "path": "select/07_Stuck_in_Your_Head_Vistas.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stuck In Your Head",
+      "artist": "Tony Romera",
+      "has_synced": true,
+      "path": "select/08_Stuck_In_Your_Head_Tony_Romera.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stuck in Your Head",
+      "artist": "Calista Garcia",
+      "has_synced": true,
+      "path": "select/09_Stuck_in_Your_Head_Calista_Garcia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stuck In Your Head",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_Stuck_In_Your_Head_IVE.txt"
+    }
+  ]
+}
